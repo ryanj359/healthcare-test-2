@@ -91,3 +91,8 @@ html, body {
     background-color: #ddd;
     color: black;
   }
+
+  .topnav a.active {
+    color: black;
+    text-decoration: none;
+  }
